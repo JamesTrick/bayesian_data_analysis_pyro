@@ -7,7 +7,7 @@ This repository walks through [Bayesian Data Analysis](http://www.stat.columbia.
 
 Bayesian Data Analysis is a great and highly recommended reading on Bayesian Methods. As such, this repository isn't designed to replace the learnings from the book, instead it'll hopefully teach you and give you confidence writing models in Pyro.
 
-## Introduction Pyro
+## Introduction of Pyro
 
 <img align="left" height="100" style="padding-right: 10px" src="http://pyro.ai/img/pyro_logo.png">
 
